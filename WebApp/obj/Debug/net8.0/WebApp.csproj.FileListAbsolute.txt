@@ -26,3 +26,4 @@ C:\Users\adria\Desktop\.NET LABS\Student-CRUD\MVCPractice\WebApp\obj\Debug\net8.
 C:\Users\adria\Desktop\.NET LABS\Student-CRUD\MVCPractice\WebApp\obj\Debug\net8.0\ref\WebApp.dll
 C:\Users\adria\Desktop\.NET LABS\Student-CRUD\MVCPractice\WebApp\obj\Debug\net8.0\WebApp.RazorAssemblyInfo.cache
 C:\Users\adria\Desktop\.NET LABS\Student-CRUD\MVCPractice\WebApp\obj\Debug\net8.0\WebApp.RazorAssemblyInfo.cs
+C:\Users\adria\Desktop\.NET LABS\Student-CRUD\MVCPractice\WebApp\bin\Debug\net8.0\WebApp.staticwebassets.runtime.json
