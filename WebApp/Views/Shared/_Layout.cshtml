@@ -29,7 +29,14 @@
 </header>
 
 <div class="container">
-    @RenderBody() @*renders the content of each one of these views into this placeholder*@
+    <div class="pb-3">
+        @RenderSection("title", false) @*renders the content just for a section in a specified view, we go in that view and type @title{<h3>Categories</h3>}*@
+        @*!!!! It is a required section if the second parameter is TRUE, but optional if it is FALSE*@
+        
+    </div>
+    <div>
+        @RenderBody() @*renders the content of each one of these views into this placeholder*@
+    </div>
 </div>
 </body>
 </html>
